@@ -112,4 +112,4 @@ Or reachout me at: aakashaldankar@gmail.com
 
 ## 📃 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the GPL-2.0 License.
